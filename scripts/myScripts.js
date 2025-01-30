@@ -9,7 +9,7 @@ function addContact() {
 
     //validate inputs
     if (name === "" || phone === "" || selectType === ""|| selectedGender === "") {
-        alert("Please enter name, phone number, contact type, and gender.");
+        alert("Please enter name, phone number, contact type, and gender. Please click on the buttons.");
         return;
     }
 
