@@ -24,6 +24,8 @@ function addContact() {
     //clear inputs
     selectedGender = "";
     selectType ="";
+    name = "";
+    phone ="";
 }
 function setGender(gender) {
     selectedGender = gender;
